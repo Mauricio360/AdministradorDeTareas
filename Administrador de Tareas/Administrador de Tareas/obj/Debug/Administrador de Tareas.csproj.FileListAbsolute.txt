@@ -1,0 +1,9 @@
+c:\users\jason\documents\visual studio 2015\Projects\Administrador de Tareas\Administrador de Tareas\bin\Debug\Administrador de Tareas.exe.config
+c:\users\jason\documents\visual studio 2015\Projects\Administrador de Tareas\Administrador de Tareas\bin\Debug\Administrador de Tareas.exe
+c:\users\jason\documents\visual studio 2015\Projects\Administrador de Tareas\Administrador de Tareas\bin\Debug\Administrador de Tareas.pdb
+c:\users\jason\documents\visual studio 2015\Projects\Administrador de Tareas\Administrador de Tareas\obj\Debug\Administrador de Tareas.csprojResolveAssemblyReference.cache
+c:\users\jason\documents\visual studio 2015\Projects\Administrador de Tareas\Administrador de Tareas\obj\Debug\Administrador_de_Tareas.Form1.resources
+c:\users\jason\documents\visual studio 2015\Projects\Administrador de Tareas\Administrador de Tareas\obj\Debug\Administrador_de_Tareas.Properties.Resources.resources
+c:\users\jason\documents\visual studio 2015\Projects\Administrador de Tareas\Administrador de Tareas\obj\Debug\Administrador de Tareas.csproj.GenerateResource.Cache
+c:\users\jason\documents\visual studio 2015\Projects\Administrador de Tareas\Administrador de Tareas\obj\Debug\Administrador de Tareas.exe
+c:\users\jason\documents\visual studio 2015\Projects\Administrador de Tareas\Administrador de Tareas\obj\Debug\Administrador de Tareas.pdb
